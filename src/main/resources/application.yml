@@ -1,0 +1,14 @@
+spring:
+
+  data:
+    mongodb:
+      host: 172.19.0.2
+      port: 27017
+      database: ChatGpt
+      username: root
+      password: Wecehrfcf
+
+  output:
+    ansi:
+      enabled: ALWAYS
+
